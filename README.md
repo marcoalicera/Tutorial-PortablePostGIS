@@ -15,7 +15,7 @@ The steps:
 5. Load a set of data in QGis
 6. Load a set of data in RiverGis
 
-##Selecting the appropate packages
+## Selecting the appropate packages
 Using this source link http://postgis.net/windows_downloads/ I have choosen to install:
 * postgresql-9.6.3-3-windows-x64-binaries
 * postgis-bundle-pg96-2.3.3x64
