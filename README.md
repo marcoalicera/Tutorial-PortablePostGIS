@@ -50,7 +50,8 @@ pause
 "%~dp0\bin\pg_ctl" -D "%~dp0/data" stop>
 
 Let's use UTF-8
-"(On Windows, however, UTF-8 encoding can be used with any locale.)"
+"(On Windows, however, UTF-8 encoding can be used with any locale.)" (https://www.postgresql.org/docs/9.6/static/multibyte.html#MULTIBYTE-CHARSET-SUPPORTED)
+
 Normalbatch.bat
 PsqlShell.bat
 
